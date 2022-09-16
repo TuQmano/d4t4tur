@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# {d4t4tur} <a href="https://dnme-minturdep.github.io/herramientas/"><img src="man/figures/logo.png" align="right" height="360" /></a>
+# {d4t4tur} <a href="https://dnme-minturdep.github.io/d4t4tur/"><img src="man/figures/logo.png" align="right" height="206"></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -31,5 +31,5 @@ devtools::install_github("dnme-minturdep/d4t4tur")
 ``` r
 library(d4t4tur)
 #> ── Attaching packages ───────────────────────────────────── d4t4tur0.0.0.9000 ──
-#> ✔ herramientas 0.0.0.9       ✔ comunicacion 0.0.0.9.2
+#> ✔ herramientas 0.0.0.9        ✔ comunicacion 0.0.0.9002
 ```

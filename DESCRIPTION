@@ -1,6 +1,6 @@
 Package: d4t4tur
 Title: Herramientas para el Trabajo con Datos y Análisis Turístico de Argentina 
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person(given = "Juan Pablo",
            family = "Ruiz Nicolini",
@@ -18,10 +18,12 @@ Imports:
     crayon,
     rstudioapi,
     comunicacion, 
-    herramientas
+    herramientas, 
+    evyth
 Remotes: 
     dnme-minturdep/comunicacion,
-    dnme-minturdep/herramientas
+    dnme-minturdep/herramientas,
+    dnme-minturdep/evyth
 URL: https://github.com/dnme-minturdep/
 BugReports: https://github.com/dnme-minturdep/issues
 Suggests: 
