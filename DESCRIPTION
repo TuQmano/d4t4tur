@@ -1,12 +1,28 @@
 Package: d4t4tur
-Title: What the Package Does (One Line, Title Case)
+Title: Herramientas para el Trabajo con Datos y Análisis Turístico de Argentina 
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(given = "Juan Pablo",
+           family = "Ruiz Nicolini",
+           role = c("aut", "cre", "cph"),
+           email = "juanpabloruiznicolini@gmail.com",
+           comment = c(ORCID = "0000-0002-3138-6343"))
+Description: Manera sencilla de instalar y cargar los paquetes de 'dnme-minturdep'.
+License: MIT + file LICENSE
 Encoding: UTF-8
+LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Imports: 
+    cli,
+    crayon,
+    rstudioapi,
+    comunicacion, 
+    herramientas
+Remotes: 
+    dnme-minturdep/comunicacion,
+    dnme-minturdep/herramientas
+URL: https://github.com/dnme-minturdep/
+BugReports: https://github.com/dnme-minturdep/issues
+Suggests: 
+    rmarkdown

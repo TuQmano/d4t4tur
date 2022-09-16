@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# d4t4tur
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+El objetivo de d4t4tur es proveer una manera sencilla de instalar y cargar el conjunto de paquetes de trabajo de la Dirección Nacional de Mercados y Estadística del Minsiterio de Turismo y Deportes de Argentina. 
+
+## Instalación
+
+You can install the development version of d4t4tur from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("TuQmano/d4t4tur")
+```
+
+## Ejemplo de uso
+
+
+
+```{r example}
+library(d4t4tur)
+
+
+```
