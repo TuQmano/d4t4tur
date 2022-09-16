@@ -1,3 +1,7 @@
 ^d4t4tur\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+docs/.nojekyll
+docs/
+pkgdown/
+^LICENSE\.md$
