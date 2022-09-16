@@ -1,6 +1,6 @@
 # based in https://github.com/tidyverse/tidyverse/blob/master/R/attach.R
 
-core <- c("herramientas",  "comunicacion")
+core <- c("herramientas",  "comunicacion", "evyth")
 
 core_unloaded <- function() {
   search <- paste0("package:", core)
