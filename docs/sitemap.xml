@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/404.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/LICENSE.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/authors.html</loc>
   </url>
   <url>
-    <loc>/news/index.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/index.html</loc>
   </url>
   <url>
-    <loc>/reference/d4t4tur.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/news/index.html</loc>
   </url>
   <url>
-    <loc>/reference/d4t4tur_packages.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/reference/d4t4tur.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://dnme-minturdep.github.io/evyth/reference/d4t4tur_packages.html</loc>
+  </url>
+  <url>
+    <loc>https://dnme-minturdep.github.io/evyth/reference/index.html</loc>
   </url>
 </urlset>

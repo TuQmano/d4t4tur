@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# {`d4t4tur`} <a href="https://dnme-minturdep.github.io/d4t4tur/"><img src="man/figures/logo.png" align="right" height="206" style="float:right; height:200px;"></a>
+# {`d4t4tur`} <a href="https://dnme-minturdep.github.io/d4t4tur/"><img src="man/figures/logo.png" align="right" height="400" style="float:right; height:400px;"></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
